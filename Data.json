@@ -1,0 +1,87 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Chinchilla",
+        "description": "มีขนยาวสลวยและตากลมโต แต่ถึงแม้ว่าจะมีความเป็นเปอร์เซีย แมวชินชิล่าก็ยังมีจุดแตกต่างจากแมวเปอร์เซียตรงที่มีโครงสร้างขนาดปานกลาง",
+        "price": 10000,
+        "thumbnail": "https://www.purina.co.th/sites/default/files/styles/ttt_image_original/public/2024-02/BREED_Hero_Desktop_Chinchilla_895%E2%80%8A%C3%97%E2%80%8A504.webp?itok=oXDdRgby",
+        "quantity" : 1
+      },
+      {
+        "id": 2,
+        "title": "British Shorthair",
+        "description": "สายพันธุ์แมวที่เก่าแก่ที่สุดของประเทศอังกฤษ ด้วยลักษณะเด่นที่มีขนหนานุ่มน่ากอด กับนิสัยเท่ๆ",
+        "price": 10899,
+        "thumbnail": "https://www.purina.co.th/sites/default/files/styles/ttt_image_original/public/2021-02/CAT%20BREED%20Hero%20Desktop_0036_British_shorthair.webp?itok=UToBSCFZ",
+        "quantity" : 1
+      },
+      {
+        "id": 3,
+        "title": "Russian blue",
+        "description": "รัสเซียนบลูเป็นแมวขนาดกลางถึงใหญ่ มีรูปร่างเพรียวบาง งามสง่า และขาเรียวยาว",
+        "price": 12049,
+        "category": "smartphones",
+        "thumbnail": "https://www.purina.co.th/sites/default/files/styles/ttt_image_original/public/2021-02/CAT%20BREED%20Hero%20Desktop_0012_Russian_blue.webp?itok=rBm954g1",
+        "quantity" : 1
+      },
+      {
+        "id": 4,
+        "title": "Ragamuffin",
+        "description": "รากามัฟฟิน ชื่อนี้ได้มาเพราะความก้อนกลมโตน่ารักที่เหมือนกับมัฟฟิ่น",
+        "price": 19280,
+        "thumbnail": "https://www.purina.co.th/sites/default/files/styles/ttt_image_original/public/2024-02/BREED_Hero_Desktop_Ragamuffin_895%E2%80%8A%C3%97%E2%80%8A504.webp?itok=MuDsChc9",
+        "quantity" : 1
+      },
+      {
+        "id": 5,
+        "title": "Scottish fold",
+        "description": "ที่มีหูพับอันเป็นเอกลักษณ์แสนเก๋ที่ไม่เหมือนใคร หน้ากลมแป้น ขนอุยนุ่มน่ากอด",
+        "price": 49999,
+        "thumbnail": "https://www.purina.co.th/sites/default/files/styles/ttt_image_original/public/2021-02/CAT%20BREED%20Hero%20Desktop_0010_Scottish_fold.webp?itok=r7kepet-",
+        "quantity" : 1
+      },
+      {
+        "id": 6,
+        "title": "sphynx",
+        "description": "จุดเด่นของแมวสฟิงซ์คือเป็นแมว “ไร้ขน” แม้ดูภายนอกจะเหมือนแมวไร้ขน แต่อันที่จริงแล้วสฟิงซ์มีขนนุ่มละเอียดปกคลุมทั่วรางกาย",
+        "price": 50000,
+        "thumbnail": "https://www.purina.co.th/sites/default/files/styles/ttt_image_original/public/2021-02/CAT%20BREED%20Hero%20Desktop_0003_Sphynx.webp?itok=AJfdmSmY",
+        "quantity" : 1
+      },
+      {
+        "id": 7,
+        "title": "Australian-mist",
+        "description": "ใบหน้ากลมโต ตาคม มีรูปร่างและหุ่นสมส่วน",
+        "price": 57400,
+        "thumbnail": "https://www.purina.co.th/sites/default/files/styles/ttt_image_original/public/2024-02/BREED_Hero_Desktop_AustralianMist_895%E2%80%8A%C3%97%E2%80%8A504.webp?itok=Hb3ZycvF",
+        "quantity" : 1
+      },
+      {
+        "id": 8,
+        "title": "Abyssinian",
+        "description": "อะบิสซิเนียเป็นแมวขนาดกลาง รูปร่างสง่า มีลำตัวเพรียวและขาเรียวยาวแข็งแรง หัวทรงกลม ปลายจมูกเรียวแหลม",
+        "price": 36846,
+        "thumbnail": "https://www.purina.co.th/sites/default/files/styles/ttt_image_original/public/2021-02/CAT%20BREED%20Hero%20Desktop_0044_Abyssinian.webp?itok=Kd8Ba4En",
+        "quantity" : 1
+      },
+      {
+        "id": 9,
+        "title": "American Shorthair",
+        "description": "มีลายเต็มตัว แต่หัวใจของน้องแมวอเมริกัน ช็อตแฮร์ นั้นอ่อนโยนไม่แพ้ใคร",
+        "price": 165468,
+        "thumbnail": "https://www.purina.co.th/sites/default/files/styles/ttt_image_original/public/2022-05/american-shorthair.webp?itok=fzraUmS4",
+        "quantity" : 1
+      },
+      {
+        "id": 10,
+        "title": "Bengal",
+        "description": "แมวเบงกอล ผู้มาพร้อมขนเงาสลวย ร่างกายกำยำ จนบางมุมก็ดูเหมือนแมวป่า ที่ถูกเสริมลุคด้วยลวดลายคล้ายลายหินอ่อนปะปนไปกับลายจุด",
+        "price": 99999,
+        "thumbnail": "https://www.purina.co.th/sites/default/files/styles/ttt_image_original/public/2024-02/BREED_Hero_Desktop_bengal_895%E2%80%8A%C3%97%E2%80%8A504.webp?itok=J1nqqlW5",
+        "quantity" : 1
+      }
+
+    ]
+  }
+  
